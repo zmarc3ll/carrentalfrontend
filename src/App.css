@@ -37,6 +37,8 @@
   }
   
 }
-a, a:hover {
-  text-decoration: none;
+#form {
+  width: 50%;
+  display: block;
+  margin: auto;
 }
